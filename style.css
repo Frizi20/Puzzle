@@ -1,0 +1,74 @@
+body{
+ text-align: center;
+ background: ;
+ margin: 0;
+}
+
+h1{
+ background: cornflowerblue;
+ padding: 30px 60px;
+ display: block;
+ 
+}
+
+.ini{
+ display: inline-block;
+ background: black;
+ width: 100px;
+ height: 100px;
+ margin: 5px;
+ position: ;
+}
+
+
+
+.container{
+ display: inline-block;
+ 
+}
+
+.crimson{
+ background:crimson;
+}
+
+.blue{
+ background: blue;
+}
+
+.red{
+ background: red;
+}
+
+.purple{
+ background: purple;
+}
+
+.green{
+ background: green;
+}
+
+.gold{
+ background:gold;
+}
+
+.pink{
+ background: pink;
+}
+
+.grey{
+ background: grey;
+}
+
+.black{
+ display: inline-block;
+ background: black;
+ width: 100px;
+ height: 100px;
+ margin: 5px;
+ position: ;
+  background: black;
+}
+
+.invi{
+ opacity: 0;
+}
